@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @ImMuhammedKsa
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m ★ i was @ImMuhammedKsa
+- 👀 I’m interested in java scripting
+- 🌱 I’m currently learning Java scripting
+- 💞️ I’m looking to collaborate with BYPASS.VIP
+- 📫 How to reach me @yo_yo_yo_ on discord
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: im stupid
 
-<!---
-ImMuhammedKsa/ImMuhammedKsa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
