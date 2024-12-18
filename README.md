@@ -1,8 +1,8 @@
 - 👋 Hi, I’m ★ i was @ImMuhammedKsa
-- 👀 I’m interested in java scripting
-- 🌱 I’m currently learning Java scripting
-- 💞️ I’m looking to collaborate with BYPASS.VIP
-- 📫 How to reach me @yo_yo_yo_ on discord
+- 👀 I’m interested in lua
+- 🌱 I’m currently learning nothing
+- 💞️ I’m looking to collaborate with no one
+- 📫 How to reach me nah
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: im stupid
 
